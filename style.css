@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+
+:root {
+
+    /* ## Colors */
+    
+    /* ### Primary */
+    
+    --clr-Pale-blue: hsl(225, 100%, 94%);
+    --clr-Bright-blue: hsl(245, 75%, 52%);
+    
+    /* ### Neutral */
+    
+    --clr-Very-pale-blue: hsl(225, 100%, 98%);
+    --clr-Desaturated-blue: hsl(224, 23%, 55%);
+    --clr-Dark-blue: hsl(223, 47%, 23%);
+    
+    /* ## Typography */
+    
+    --fs: 16px;
+    
+    --ff: 'Red Hat Display', sans-serif;
+    --fw-semibold: 500;
+    --fw-bold: 700;
+    --fw-extrabold: 900;
+}
+
+
+/* RESET DEFAULTS */
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width: 100%;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
